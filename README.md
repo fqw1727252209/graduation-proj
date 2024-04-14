@@ -10,12 +10,14 @@
 [secworks/aes: Verilog implementation of the symmetric block cipher AES (Advanced Encryption Standard) as specified in NIST FIPS 197. This implementation supports 128 and 256 bit keys. (github.com)](https://github.com/secworks/aes)
 
 [AES协处理器yunuseryilmaz18/crypto-coprocessor (github.com)](https://github.com/yunuseryilmaz18/crypto-coprocessor/tree/main)
+[mjosaarinen/lwaes_isa: [HISTORICAL\] A Lightweight (RISC-V) ISA Extension for AES and SM4 (github.com)](https://github.com/mjosaarinen/lwaes_isa/tree/master)
 
 #### ASCON实现
 
 [rprimas/ascon-verilog: Verilog Hardware Design of Ascon v1.2 (github.com)](https://github.com/rprimas/ascon-verilog)
 
 [Steinegger/riscv_asconp_accelerator: Meta repo, Ascon-p instruction for RISC-V (github.com)](https://github.com/Steinegger/riscv_asconp_accelerator)
+[ascon/ascon-hardware: NIST LWC Hardware Reference Implementation of Ascon v1.2 (github.com)](https://github.com/ascon/ascon-hardware)
 
 #### SH256实现
 
@@ -23,3 +25,4 @@
 
 #### CrossBar实现
 
+git@github.com:dpretet/axi-crossbar.git
